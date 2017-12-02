@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>{{ page.title }} &mdash; {{ site.name }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+</head>
+<body>
+	<div id="soul">
+		<div id="header">
+			<h1 id="logo"><a href="{{ site.url }}">WP Shuttle</a></h1>
+
+			<nav id="nav-main" class="nav">
+				<ul>
+					<li><a href="{{ site.repository }}">GitHub</a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<div id="content">
+			{{ content }}
+		</div>
+	</div>
+</body>
+</html>

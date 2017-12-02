@@ -1,0 +1,10 @@
+name: WP Shuttle
+url: https://wpsh.org
+repository: https://github.com/wpsh/wpsh
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
