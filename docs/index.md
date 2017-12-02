@@ -2,7 +2,7 @@
 title: Automatic Deployments for WordPress Plugins and Themes
 ---
 
-# Quickly Deploy WordPress Plugins and Themes
+# Deploy WordPress Plugins and Themes Automatically
 
 [View on GitHub →](https://github.com/wpsh/wpsh)
 
