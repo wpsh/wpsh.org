@@ -22,3 +22,5 @@ We use [Jekyll](https://jekyllrb.com) to build the website from the Markdown fil
 		$ jekyll serve
 
 Now view the website at [http://127.0.0.1:4000]().
+
+The public website is built by [Travis CI](https://travis-ci.org/wpsh/wpsh.org) and hosted on [Netlify](https://www.netlify.com).
