@@ -1,11 +1,12 @@
 body { font:16px/1.5 sans-serif; }
 h1, h2, h3, h4, h5, h6 { margin:1.5em 0 0.5em 0; }
 
-#soul { margin:0 auto; max-width:40em; }
-#header { width:100%; clear:both; margin-bottom:1em; padding:1em 0; }
-#logo { font-size: inherit; margin:0; float:left; }
-#logo a { display:block; color:inherit; text-decoration:none; padding:0.5em; margin-left:-0.5em; }
-#nav-main { float:right; }
+#soul { margin:0 auto; max-width:40em; padding-left:1em; }
+#header { float:left; width:100%; clear:both; margin-bottom:1em; padding:1em 0; }
+#logo { font-size: inherit; margin:0 0 0 -0.75em; float:left; }
+#logo img { vertical-align:middle; }
+#logo a { display:block; color:inherit; text-decoration:none; padding:0.5em; margin:-0.5em; }
+#nav-main { float:right; margin-top:2em; }
 #content { width:100%; clear:both; }
 
 .nav ul { display:block; margin:0; padding:0; }
