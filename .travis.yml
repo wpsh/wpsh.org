@@ -3,7 +3,6 @@ script: echo "Nothing to build!"
 
 deploy:
   provider: pages
-  local_dir: _site
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   on:
