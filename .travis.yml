@@ -1,5 +1,5 @@
 
-script:
+script: echo "Nothing to build!"
 
 deploy:
   provider: pages
