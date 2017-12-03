@@ -19,7 +19,7 @@ We use [Jekyll](https://jekyllrb.com) to build the website from the Markdown fil
 2. Start a local webserver and build the website whenever the source files change:
 
 		$ bundle install
-		$ jekyll serve
+		$ jekyll serve --source docs
 
 Now view the website at [http://127.0.0.1:4000]().
 

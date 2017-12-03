@@ -2,8 +2,6 @@ name: WP Shuttle
 url: https://wpsh.org
 repository: https://github.com/wpsh/wpsh
 
-source: docs
-
 defaults:
   -
     scope:
