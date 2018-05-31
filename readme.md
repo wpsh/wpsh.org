@@ -19,4 +19,4 @@ We use [Jekyll](https://jekyllrb.com) to build the website from the Markdown fil
 
 Now view the website at [http://127.0.0.1:4000]().
 
-The public website is built and hosted on [Netlify](https://www.netlify.com).
+The public website is built and hosted by [GitHub Pages](https://pages.github.com/).
