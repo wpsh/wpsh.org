@@ -1,12 +1,13 @@
 ---
-title: Automatic Deployments for WordPress Plugins and Themes
+title: Awesome Tools for WordPress Development
 ---
 
-# Deploy WordPress Plugins and Themes Automatically
+# Our Projects
 
-[View on GitHub →](https://github.com/wpsh/wpsh)
+- [`wpsh`](https://github.com/wpsh/wpsh) for automatically deploying WordPress plugins and themes.
 
+- [`wp-cli-replicator`](https://github.com/wpsh/wp-cli-replicator) for cloning large production sites out of WXR and option export files.
 
-## How to Contribute Documentation
+---
 
-See [`readme.md` in the GitHub repository](https://github.com/wpsh/wpsh.org).
+Want to help with documentation? See the [`readme.md` of the site repository](https://github.com/wpsh/wpsh.org).
