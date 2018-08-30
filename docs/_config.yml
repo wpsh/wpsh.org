@@ -1,6 +1,6 @@
 name: WP Shuttle
 url: https://wpsh.org
-repository: https://github.com/wpsh/wpsh
+repository: https://github.com/wpsh
 
 defaults:
   -
